@@ -16,4 +16,5 @@ Brick breaker I made by Java
 ![image](https://user-images.githubusercontent.com/86466517/123400421-b4582c00-d5e0-11eb-88bb-15bd273cc3e9.png)
 
 4. Clear
+
 ![image](https://user-images.githubusercontent.com/86466517/123400300-91c61300-d5e0-11eb-8673-83afdc5ce825.png)
